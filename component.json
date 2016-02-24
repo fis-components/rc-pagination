@@ -1,0 +1,10 @@
+{
+    "name": "rc-pagination",
+    "description": "pagination ui component for react",
+    "repos": "https://github.com/react-component/pagination.git",
+    "main": "lib/index",
+    "tag": "master",
+    "reposType": "npm",
+    "version": "1.4.0",
+    "dependencies": {}
+}
